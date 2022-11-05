@@ -1,0 +1,952 @@
+Player,Team,Number,Position,Height,Weight,Last Attended,Country
+PreciousAchiuwa,TOR,5,F,203.2,102.0582,Memphis,Nigeria
+StevenAdams,MEM,4,C,210.82,120.20188,Pittsburgh,New Zealand
+BamAdebayo,MIA,13,C-F,205.74,115.66596,Kentucky,USA
+OchaiAgbaji,UTA,30,G,195.58,97.52228,Kansas,USA
+SantiAldama,MEM,7,F-C,213.36,97.52228,Loyola-Maryland,Spain
+NickeilAlexander-Walker,UTA,6,G,195.58,92.98636,Virginia Tech,Canada
+GraysonAllen,MIL,12,G,193.04,89.811216,Duke,USA
+JarrettAllen,CLE,31,C,205.74,110.222856,Texas,USA
+JoseAlvarado,NOP,15,G,182.88,81.192968,Georgia Tech,USA
+KyleAnderson,MIN,5,F-G,205.74,104.32616,UCLA,USA
+GiannisAntetokounmpo,MIL,34,F,213.36,110.222856,Filathlitikos,Greece
+KostasAntetokounmpo,CHI,37,F,208.28,90.7184,Dayton,Greece
+ThanasisAntetokounmpo,MIL,43,F,200.66,99.336648,Panathinaikos,Greece
+ColeAnthony,ORL,50,G,190.5,83.91452,North Carolina,USA
+O.G.Anunoby,TOR,3,F,200.66,105.233344,Indiana,United Kingdom
+RyanArcidiacono,NYK,51,G,190.5,88.45044,Villanova,USA
+DeniAvdija,WAS,9,F,205.74,95.25431999999999,Maccabi Tel Aviv,Israel
+DeandreAyton,PHX,22,C,213.36,113.398,Arizona,Bahamas
+UdokaAzubuike,UTA,20,C-F,210.82,122.46984,Kansas,Nigeria
+MarvinBagley III,DET,35,F,208.28,106.59412,Duke,USA
+PatrickBaldwin Jr.,GSW,7,F,205.74,99.79024,Wisconsin-Milwaukee,USA
+LaMeloBall,CHA,1,G,200.66,81.64656,Illawarra,USA
+LonzoBall,CHI,2,G,198.12,86.18248,UCLA,USA
+MoBamba,ORL,11,C,213.36,104.779752,Texas,USA
+PaoloBanchero,ORL,5,F,208.28,113.398,Duke,USA
+DesmondBane,MEM,22,G,195.58,97.52228,TCU,USA
+DalanoBanton,TOR,45,F,200.66,92.532768,Nebraska,Canada
+DominickBarlow,SAS,26,F,205.74,97.52228, ,USA
+HarrisonBarnes,SAC,40,F,203.2,102.0582,North Carolina,USA
+ScottieBarnes,TOR,4,F,203.2,102.0582,Florida State,USA
+RJBarrett,NYK,9,F-G,198.12,97.068688,Duke,Canada
+WillBarton,WAS,5,G,195.58,82.100152,Memphis,USA
+CharlesBassey,SAS,28,C-F,205.74,104.32616,Western Kentucky,Nigeria
+KeitaBates-Diop,SAS,31,F,203.2,103.872568,Ohio State,USA
+NicolasBatum,LAC,33,G-F,203.2,104.32616,Le Mans,France
+DariusBazley,OKC,55,F,205.74,97.975872,Princeton HS (OH),USA
+BradleyBeal,WAS,3,G,193.04,93.893544,Florida,USA
+MalikBeasley,UTA,5,G,193.04,84.821704,Florida State,USA
+MarJonBeauchamp,MIL,0,F,200.66,90.264808,NBA G League Ignite,USA
+DavisBertans,DAL,44,F,208.28,102.0582,Baskonia,Latvia
+PatrickBeverley,LAL,21,G,187.96,81.64656,Arkansas,USA
+SaddiqBey,DET,41,F,200.66,97.52228,Villanova,USA
+KhemBirch,TOR,24,C,203.2,105.686936,UNLV,Canada
+GogaBitadze,IND,88,C-F,210.82,113.398,Mega Basket,Georgia
+BismackBiyombo,PHX,18,C,203.2,115.66596,Baloncesto Fuenlabrada,DRC
+BuddyBoeheim,DET,27,F,198.12,92.98636,Syracuse,USA
+BogdanBogdanovic,ATL,13,G,195.58,102.0582,Fenerbahce,Serbia
+BojanBogdanovic,DET,44,F,200.66,102.511792,Fenerbahce,Croatia
+BolBol,ORL,10,C-F,218.44,99.79024,Oregon,Sudan
+LeandroBolmaro,UTA,10,F,198.12,90.7184,FC Barcelona,Argentina
+DevinBooker,PHX,1,G,195.58,93.439952,Kentucky,USA
+BrandonBoston Jr.,LAC,4,G,198.12,85.275296,Kentucky,USA
+ChrisBoucher,TOR,25,F-C,205.74,90.7184,Oregon,Saint Lucia
+JamesBouknight,CHA,2,G,193.04,86.18248,Connecticut,USA
+TonyBradley,CHI,13,C-F,210.82,112.490816,North Carolina,USA
+MalakiBranham,SAS,22,F,193.04,81.64656,Ohio State,USA
+ChristianBraun,DEN,0,G,198.12,99.79024,Kansas,USA
+MikalBridges,PHX,25,F,198.12,94.80072799999999,Villanova,USA
+OshaeBrissett,IND,12,F-G,200.66,95.25431999999999,Syracuse,Canada
+MalcolmBrogdon,BOS,13,G,193.04,103.872568,Virginia,USA
+DillonBrooks,MEM,24,G-F,198.12,102.0582,Oregon,Canada
+BruceBrown,DEN,11,G-F,193.04,91.625584,Miami,USA
+JaylenBrown,BOS,7,G-F,198.12,101.151016,California,USA
+KendallBrown,IND,10,G,200.66,92.98636,Baylor,USA
+MosesBrown,LAC,6,C,218.44,111.13004,UCLA,USA
+GregBrown III,POR,4,F,200.66,93.439952,Texas,USA
+TroyBrown Jr.,LAL,7,G-F,200.66,97.52228,Oregon,USA
+JalenBrunson,NYK,11,G,187.96,86.18248,Villanova,USA
+ThomasBryant,LAL,31,C-F,208.28,112.490816,Indiana,USA
+ReggieBullock,DAL,25,G-F,198.12,92.98636,North Carolina,USA
+AlecBurks,DET,5,G,198.12,97.068688,Colorado,USA
+JimmyButler,MIA,22,F,200.66,104.32616,Marquette,USA
+JohnButler Jr.,POR,21,F,213.36,86.18248,Florida State,USA
+JamalCain,MIA,8,F,198.12,86.636072,Oakland,USA
+KentaviousCaldwell-Pope,DEN,5,G,195.58,92.532768,Georgia,USA
+FacundoCampazzo,DAL,2,G,177.8,88.45044,Murcia,Argentina
+VlatkoCancar,DEN,31,F,203.2,107.047712,San Pablo Burgos,Slovenia
+ClintCapela,ATL,15,C,208.28,116.119552,Elan Chalon,Switzerland
+VernonCarey Jr.,WAS,13,F-C,208.28,122.46984,Duke,USA
+JevonCarter,MIL,5,G,185.42000000000002,90.7184,West Virginia,USA
+WendellCarter Jr.,ORL,34,C-F,208.28,122.46984,Duke,USA
+AlexCaruso,CHI,6,G,195.58,84.368112,Texas A&M,USA
+JulianChampagnie,PHI,55,F,200.66,98.429464,St. John's,USA
+JustinChampagnie,TOR,11,G-F,198.12,93.439952,Pittsburgh,USA
+KennedyChandler,MEM,1,G,180.34,77.11064,Tennessee,USA
+MaxChristie,LAL,10,G,195.58,86.18248,Michigan State,USA
+JoshChristopher,HOU,9,G,193.04,97.52228,Arizona State,USA
+BrandonClarke,MEM,15,F,203.2,97.52228,Gonzaga,Canada
+JordanClarkson,UTA,00,G,195.58,87.996848,Missouri,USA
+NicClaxton,BKN,33,C,210.82,97.52228,Georgia,USA
+AmirCoffey,LAC,7,G-F,200.66,95.25431999999999,Minnesota,USA
+JohnCollins,ATL,20,F-C,205.74,102.511792,Wake Forest,USA
+ZachCollins,SAS,23,F-C,210.82,113.398,Gonzaga,USA
+MikeConley,UTA,11,G,185.42000000000002,79.3786,Ohio State,USA
+PatConnaughton,MIL,24,G,195.58,94.80072799999999,Notre Dame,USA
+RobertCovington,LAC,23,F,200.66,94.80072799999999,Tennessee State,USA
+TorreyCraig,PHX,0,F,200.66,100.243832,South Carolina Upstate,USA
+JaeCrowder,PHX,99,F,198.12,106.59412,Marquette,USA
+JarrettCulver,ATL,7,G-F,198.12,88.45044,Texas Tech,USA
+CadeCunningham,DET,2,G,200.66,99.79024,Oklahoma State,USA
+DevinBooker,PHX,1,G,195.58,93.439952,Kentucky,USA
+BrandonBoston Jr.,LAC,4,G,198.12,85.275296,Kentucky,USA
+ChrisBoucher,TOR,25,F-C,205.74,90.7184,Oregon,Saint Lucia
+JamesBouknight,CHA,2,G,193.04,86.18248,Connecticut,USA
+TonyBradley,CHI,13,C-F,210.82,112.490816,North Carolina,USA
+MalakiBranham,SAS,22,F,193.04,81.64656,Ohio State,USA
+ChristianBraun,DEN,0,G,198.12,99.79024,Kansas,USA
+MikalBridges,PHX,25,F,198.12,94.80072799999999,Villanova,USA
+OshaeBrissett,IND,12,F-G,200.66,95.25431999999999,Syracuse,Canada
+MalcolmBrogdon,BOS,13,G,193.04,103.872568,Virginia,USA
+DillonBrooks,MEM,24,G-F,198.12,102.0582,Oregon,Canada
+BruceBrown,DEN,11,G-F,193.04,91.625584,Miami,USA
+JaylenBrown,BOS,7,G-F,198.12,101.151016,California,USA
+KendallBrown,IND,10,G,200.66,92.98636,Baylor,USA
+MosesBrown,LAC,6,C,218.44,111.13004,UCLA,USA
+GregBrown III,POR,4,F,200.66,93.439952,Texas,USA
+TroyBrown Jr.,LAL,7,G-F,200.66,97.52228,Oregon,USA
+JalenBrunson,NYK,11,G,187.96,86.18248,Villanova,USA
+ThomasBryant,LAL,31,C-F,208.28,112.490816,Indiana,USA
+ReggieBullock,DAL,25,G-F,198.12,92.98636,North Carolina,USA
+AlecBurks,DET,5,G,198.12,97.068688,Colorado,USA
+JimmyButler,MIA,22,F,200.66,104.32616,Marquette,USA
+JohnButler Jr.,POR,21,F,213.36,86.18248,Florida State,USA
+JamalCain,MIA,8,F,198.12,86.636072,Oakland,USA
+KentaviousCaldwell-Pope,DEN,5,G,195.58,92.532768,Georgia,USA
+FacundoCampazzo,DAL,2,G,177.8,88.45044,Murcia,Argentina
+VlatkoCancar,DEN,31,F,203.2,107.047712,San Pablo Burgos,Slovenia
+ClintCapela,ATL,15,C,208.28,116.119552,Elan Chalon,Switzerland
+VernonCarey Jr.,WAS,13,F-C,208.28,122.46984,Duke,USA
+JevonCarter,MIL,5,G,185.42000000000002,90.7184,West Virginia,USA
+WendellCarter Jr.,ORL,34,C-F,208.28,122.46984,Duke,USA
+AlexCaruso,CHI,6,G,195.58,84.368112,Texas A&M,USA
+JulianChampagnie,PHI,55,F,200.66,98.429464,St. John's,USA
+JustinChampagnie,TOR,11,G-F,198.12,93.439952,Pittsburgh,USA
+KennedyChandler,MEM,1,G,180.34,77.11064,Tennessee,USA
+MaxChristie,LAL,10,G,195.58,86.18248,Michigan State,USA
+JoshChristopher,HOU,9,G,193.04,97.52228,Arizona State,USA
+BrandonClarke,MEM,15,F,203.2,97.52228,Gonzaga,Canada
+JordanClarkson,UTA,00,G,195.58,87.996848,Missouri,USA
+NicClaxton,BKN,33,C,210.82,97.52228,Georgia,USA
+AmirCoffey,LAC,7,G-F,200.66,95.25431999999999,Minnesota,USA
+JohnCollins,ATL,20,F-C,205.74,102.511792,Wake Forest,USA
+ZachCollins,SAS,23,F-C,210.82,113.398,Gonzaga,USA
+MikeConley,UTA,11,G,185.42000000000002,79.3786,Ohio State,USA
+PatConnaughton,MIL,24,G,195.58,94.80072799999999,Notre Dame,USA
+RobertCovington,LAC,23,F,200.66,94.80072799999999,Tennessee State,USA
+TorreyCraig,PHX,0,F,200.66,100.243832,South Carolina Upstate,USA
+JaeCrowder,PHX,99,F,198.12,106.59412,Marquette,USA
+JarrettCulver,ATL,7,G-F,198.12,88.45044,Texas Tech,USA
+CadeCunningham,DET,2,G,200.66,99.79024,Oklahoma State,USA
+SethCurry,BKN,30,G,185.42000000000002,83.91452,Duke,USA
+StephenCurry,GSW,30,G,187.96,83.91452,Davidson,USA
+DysonDaniels,NOP,11,G,200.66,90.264808,NBA G League Ignite,Australia
+AnthonyDavis,LAL,3,F-C,208.28,114.758776,Kentucky,USA
+JohnnyDavis,WAS,1,G,193.04,88.45044,Wisconsin,USA
+TerenceDavis,SAC,3,G,193.04,91.171992,Mississippi,USA
+JDDavison,BOS,20,G,185.42000000000002,88.45044,Alabama,USA
+DariusDays,HOU,5,F,200.66,111.13004,Louisiana State,USA
+DeMarDeRozan,CHI,11,G-F,198.12,99.79024,Southern California,USA
+DewayneDedmon,MIA,21,C,208.28,111.13004,Southern California,USA
+MatthewDellavedova,SAC,8,G,190.5,90.7184,St. Mary's,Australia
+DonteDiVincenzo,GSW,0,G,193.04,92.079176,Villanova,USA
+MoussaDiabate,LAC,25,F,208.28,95.25431999999999,Michigan,France
+MamadiDiakite,CLE,21,F,205.74,103.418976,Virginia,Guinea
+HamidouDiallo,DET,6,G,195.58,91.625584,Kentucky,USA
+GorguiDieng,SAS,41,C,208.28,112.490816,Louisville,Senegal
+OusmaneDieng,OKC,13,F,205.74,83.91452,New Zealand Breakers,France
+SpencerDinwiddie,DAL,26,G,195.58,97.52228,Colorado,USA
+LukaDoncic,DAL,77,F-G,200.66,104.32616,Real Madrid,Slovenia
+TylerDorsey,DAL,22,G,193.04,81.64656,Oregon,USA
+LuguentzDort,OKC,5,G,193.04,99.79024,Arizona State,Canada
+AyoDosunmu,CHI,12,G,195.58,90.7184,Illinois,USA
+JeffDowtin Jr.,TOR,20,G,190.5,80.28578399999999,Rhode Island,USA
+GoranDragic,CHI,7,G,193.04,86.18248,Union Olimpija,Slovenia
+AndreDrummond,CHI,3,C,210.82,126.552168,Connecticut,USA
+ChrisDuarte,IND,3,G,195.58,86.18248,Oregon,Dominican Republic
+DavidDuke Jr.,BKN,6,G,193.04,92.532768,Providence,USA
+KevinDurant,BKN,7,F,208.28,108.86207999999999,Texas,USA
+JalenDuren,DET,0,C,210.82,113.398,Memphis,USA
+TariEason,HOU,17,F,203.2,97.52228,Louisiana State,USA
+AnthonyEdwards,MIN,1,G,193.04,102.0582,Georgia,USA
+KesslerEdwards,BKN,14,F,200.66,92.079176,Pepperdine,USA
+KeonEllis,SAC,23,G,190.5,79.3786,Alabama,USA
+JoelEmbiid,PHI,21,C-F,213.36,127.00576,Kansas,Cameroon
+DrewEubanks,POR,24,F-C,208.28,111.13004,Oregon State,USA
+BrunoFernando,HOU,20,F-C,208.28,108.86207999999999,Maryland,Angola
+DorianFinney-Smith,DAL,10,F,200.66,99.79024,Florida,USA
+MalachiFlynn,TOR,22,G,185.42000000000002,79.3786,San Diego State,USA
+SimoneFontecchio,UTA,16,F,200.66,94.80072799999999,Baskonia,Italy
+BrynForbes,MIN,10,G,187.96,92.98636,Michigan State,USA
+TrentForrest,ATL,2,G,193.04,95.25431999999999,Florida State,USA
+MichaelFoster Jr.,PHI,35,F,203.2,113.398,NBA G League Ignite,USA
+EvanFournier,NYK,13,G-F,198.12,92.98636,Poitiers Basket 86,France
+De'AaronFox,SAC,5,G,190.5,83.91452,Kentucky,USA
+MarkelleFultz,ORL,20,G,193.04,94.80072799999999,Washington,USA
+WenyenGabriel,LAL,35,F,205.74,92.98636,Kentucky,South Sudan
+DanielGafford,WAS,21,F-C,208.28,106.140528,Arkansas,USA
+DaniloGallinari,BOS,8,F,208.28,107.047712,Olimpia Milano,Italy
+DariusGarland,CLE,10,G,185.42000000000002,87.089664,Vanderbilt,USA
+UsmanGaruba,HOU,16,F,203.2,103.872568,Real Madrid,Spain
+SethCurry,BKN,30,G,185.42000000000002,83.91452,Duke,USA
+StephenCurry,GSW,30,G,187.96,83.91452,Davidson,USA
+DysonDaniels,NOP,11,G,200.66,90.264808,NBA G League Ignite,Australia
+AnthonyDavis,LAL,3,F-C,208.28,114.758776,Kentucky,USA
+JohnnyDavis,WAS,1,G,193.04,88.45044,Wisconsin,USA
+TerenceDavis,SAC,3,G,193.04,91.171992,Mississippi,USA
+JDDavison,BOS,20,G,185.42000000000002,88.45044,Alabama,USA
+DariusDays,HOU,5,F,200.66,111.13004,Louisiana State,USA
+DeMarDeRozan,CHI,11,G-F,198.12,99.79024,Southern California,USA
+DewayneDedmon,MIA,21,C,208.28,111.13004,Southern California,USA
+MatthewDellavedova,SAC,8,G,190.5,90.7184,St. Mary's,Australia
+DonteDiVincenzo,GSW,0,G,193.04,92.079176,Villanova,USA
+MoussaDiabate,LAC,25,F,208.28,95.25431999999999,Michigan,France
+MamadiDiakite,CLE,21,F,205.74,103.418976,Virginia,Guinea
+HamidouDiallo,DET,6,G,195.58,91.625584,Kentucky,USA
+GorguiDieng,SAS,41,C,208.28,112.490816,Louisville,Senegal
+OusmaneDieng,OKC,13,F,205.74,83.91452,New Zealand Breakers,France
+SpencerDinwiddie,DAL,26,G,195.58,97.52228,Colorado,USA
+LukaDoncic,DAL,77,F-G,200.66,104.32616,Real Madrid,Slovenia
+TylerDorsey,DAL,22,G,193.04,81.64656,Oregon,USA
+LuguentzDort,OKC,5,G,193.04,99.79024,Arizona State,Canada
+AyoDosunmu,CHI,12,G,195.58,90.7184,Illinois,USA
+JeffDowtin Jr.,TOR,20,G,190.5,80.28578399999999,Rhode Island,USA
+GoranDragic,CHI,7,G,193.04,86.18248,Union Olimpija,Slovenia
+AndreDrummond,CHI,3,C,210.82,126.552168,Connecticut,USA
+ChrisDuarte,IND,3,G,195.58,86.18248,Oregon,Dominican Republic
+DavidDuke Jr.,BKN,6,G,193.04,92.532768,Providence,USA
+KevinDurant,BKN,7,F,208.28,108.86207999999999,Texas,USA
+JalenDuren,DET,0,C,210.82,113.398,Memphis,USA
+TariEason,HOU,17,F,203.2,97.52228,Louisiana State,USA
+AnthonyEdwards,MIN,1,G,193.04,102.0582,Georgia,USA
+KesslerEdwards,BKN,14,F,200.66,92.079176,Pepperdine,USA
+KeonEllis,SAC,23,G,190.5,79.3786,Alabama,USA
+JoelEmbiid,PHI,21,C-F,213.36,127.00576,Kansas,Cameroon
+DrewEubanks,POR,24,F-C,208.28,111.13004,Oregon State,USA
+BrunoFernando,HOU,20,F-C,208.28,108.86207999999999,Maryland,Angola
+DorianFinney-Smith,DAL,10,F,200.66,99.79024,Florida,USA
+MalachiFlynn,TOR,22,G,185.42000000000002,79.3786,San Diego State,USA
+SimoneFontecchio,UTA,16,F,200.66,94.80072799999999,Baskonia,Italy
+BrynForbes,MIN,10,G,187.96,92.98636,Michigan State,USA
+TrentForrest,ATL,2,G,193.04,95.25431999999999,Florida State,USA
+MichaelFoster Jr.,PHI,35,F,203.2,113.398,NBA G League Ignite,USA
+EvanFournier,NYK,13,G-F,198.12,92.98636,Poitiers Basket 86,France
+De'AaronFox,SAC,5,G,190.5,83.91452,Kentucky,USA
+MarkelleFultz,ORL,20,G,193.04,94.80072799999999,Washington,USA
+WenyenGabriel,LAL,35,F,205.74,92.98636,Kentucky,South Sudan
+DanielGafford,WAS,21,F-C,208.28,106.140528,Arkansas,USA
+DaniloGallinari,BOS,8,F,208.28,107.047712,Olimpia Milano,Italy
+DariusGarland,CLE,10,G,185.42000000000002,87.089664,Vanderbilt,USA
+UsmanGaruba,HOU,16,F,203.2,103.872568,Real Madrid,Spain
+LukaGarza,MIN,55,C,208.28,110.222856,Iowa,USA
+RudyGay,UTA,22,F-G,203.2,113.398,Connecticut,USA
+PaulGeorge,LAC,13,F,203.2,99.79024,Fresno State,USA
+TajGibson,WAS,67,F,205.74,105.233344,Southern California,USA
+JoshGiddey,OKC,3,G,203.2,97.975872,NBA Global Academy,Australia
+ShaiGilgeous-Alexander,OKC,2,G,198.12,88.45044,Kentucky,Canada
+AnthonyGill,WAS,16,F,203.2,104.32616,Virginia,USA
+CollinGillespie,DEN,21,G,185.42000000000002,88.45044,Villanova,USA
+RudyGobert,MIN,27,C,215.9,117.026736,Cholet,France
+JordanGoodwin,WAS,7,G,190.5,90.7184,St. Louis,USA
+AaronGordon,DEN,50,F,203.2,106.59412,Arizona,USA
+EricGordon,HOU,10,G,190.5,97.52228,Indiana,USA
+Devonte'Graham,NOP,4,G,185.42000000000002,88.45044,Kansas,USA
+JeramiGrant,POR,9,F,203.2,95.25431999999999,Syracuse,USA
+A.J.Green,MIL,20,G,195.58,86.18248,Northern Iowa,USA
+DannyGreen,MEM,14,G,198.12,97.52228,North Carolina,USA
+DraymondGreen,GSW,23,F,198.12,104.32616,Michigan State,USA
+JaMychalGreen,GSW,1,F-C,205.74,102.965384,Alabama,USA
+JalenGreen,HOU,4,G,193.04,84.368112,NBA G League Ignite,USA
+JavonteGreen,CHI,24,G-F,195.58,92.98636,Radford,USA
+JeffGreen,DEN,32,F,203.2,106.59412,Georgetown,USA
+JoshGreen,DAL,8,G,200.66,90.7184,Arizona,Australia
+AJGriffin,ATL,14,F,198.12,99.79024,Duke,USA
+BlakeGriffin,BOS,91,F,205.74,113.398,Oklahoma,USA
+QuentinGrimes,NYK,6,G,195.58,95.25431999999999,Houston,USA
+RuiHachimura,WAS,8,F,203.2,104.32616,Gonzaga,Japan
+TyreseHaliburton,IND,0,G,195.58,83.91452,Iowa State,USA
+JordanHall,SAS,55,G,200.66,97.52228,St. Joseph's (PA),USA
+R.J.Hampton,ORL,13,G,193.04,79.3786,New Zealand Breakers,USA
+TimHardaway Jr.,DAL,11,G-F,195.58,92.98636,Michigan,USA
+JamesHarden,PHI,1,G,195.58,99.79024,Arizona State,USA
+JadenHardy,DAL,3,G,190.5,89.811216,NBA G League Ignite,USA
+RonHarper Jr.,TOR,8,F,195.58,111.13004,Rutgers,USA
+MontrezlHarrell,PHI,5,F-C,200.66,108.86207999999999,Louisville,USA
+GaryHarris,ORL,14,G,193.04,95.25431999999999,Michigan State,USA
+JoeHarris,BKN,12,G-F,198.12,99.79024,Virginia,USA
+KevonHarris,ORL,7,G,198.12,97.975872,Stephen F. Austin,USA
+TobiasHarris,PHI,12,F,200.66,102.511792,Tennessee,USA
+JoshHart,POR,11,G,193.04,97.52228,Villanova,USA
+IsaiahHartenstein,NYK,55,C-F,213.36,113.398,Zalgiris,Germany
+UdonisHaslem,MIA,40,F,200.66,106.59412,Florida,USA
+SamHauser,BOS,30,F,200.66,98.429464,Virginia,USA
+JaxsonHayes,NOP,10,C-F,213.36,99.79024,Texas,USA
+KillianHayes,DET,7,G,195.58,88.45044,Ratiopharm Ulm,France
+GordonHayward,CHA,20,F,200.66,102.0582,Butler,USA
+JuanchoHernangomez,TOR,41,F,205.74,97.068688,Estudiantes,Spain
+WillyHernangomez,NOP,9,C-F,210.82,113.398,Cajasol Sevilla,Spain
+TylerHerro,MIA,14,G,195.58,88.45044,Kentucky,USA
+BuddyHield,IND,24,G,193.04,99.79024,Oklahoma,Bahamas
+HaywoodHighsmith,MIA,24,F,195.58,99.79024,Wheeling Jesuit,USA
+LukaGarza,MIN,55,C,208.28,110.222856,Iowa,USA
+RudyGay,UTA,22,F-G,203.2,113.398,Connecticut,USA
+PaulGeorge,LAC,13,F,203.2,99.79024,Fresno State,USA
+TajGibson,WAS,67,F,205.74,105.233344,Southern California,USA
+JoshGiddey,OKC,3,G,203.2,97.975872,NBA Global Academy,Australia
+ShaiGilgeous-Alexander,OKC,2,G,198.12,88.45044,Kentucky,Canada
+AnthonyGill,WAS,16,F,203.2,104.32616,Virginia,USA
+CollinGillespie,DEN,21,G,185.42000000000002,88.45044,Villanova,USA
+RudyGobert,MIN,27,C,215.9,117.026736,Cholet,France
+JordanGoodwin,WAS,7,G,190.5,90.7184,St. Louis,USA
+AaronGordon,DEN,50,F,203.2,106.59412,Arizona,USA
+EricGordon,HOU,10,G,190.5,97.52228,Indiana,USA
+Devonte'Graham,NOP,4,G,185.42000000000002,88.45044,Kansas,USA
+JeramiGrant,POR,9,F,203.2,95.25431999999999,Syracuse,USA
+A.J.Green,MIL,20,G,195.58,86.18248,Northern Iowa,USA
+DannyGreen,MEM,14,G,198.12,97.52228,North Carolina,USA
+DraymondGreen,GSW,23,F,198.12,104.32616,Michigan State,USA
+JaMychalGreen,GSW,1,F-C,205.74,102.965384,Alabama,USA
+JalenGreen,HOU,4,G,193.04,84.368112,NBA G League Ignite,USA
+JavonteGreen,CHI,24,G-F,195.58,92.98636,Radford,USA
+JeffGreen,DEN,32,F,203.2,106.59412,Georgetown,USA
+JoshGreen,DAL,8,G,200.66,90.7184,Arizona,Australia
+AJGriffin,ATL,14,F,198.12,99.79024,Duke,USA
+BlakeGriffin,BOS,91,F,205.74,113.398,Oklahoma,USA
+QuentinGrimes,NYK,6,G,195.58,95.25431999999999,Houston,USA
+RuiHachimura,WAS,8,F,203.2,104.32616,Gonzaga,Japan
+TyreseHaliburton,IND,0,G,195.58,83.91452,Iowa State,USA
+JordanHall,SAS,55,G,200.66,97.52228,St. Joseph's (PA),USA
+R.J.Hampton,ORL,13,G,193.04,79.3786,New Zealand Breakers,USA
+TimHardaway Jr.,DAL,11,G-F,195.58,92.98636,Michigan,USA
+JamesHarden,PHI,1,G,195.58,99.79024,Arizona State,USA
+JadenHardy,DAL,3,G,190.5,89.811216,NBA G League Ignite,USA
+RonHarper Jr.,TOR,8,F,195.58,111.13004,Rutgers,USA
+MontrezlHarrell,PHI,5,F-C,200.66,108.86207999999999,Louisville,USA
+GaryHarris,ORL,14,G,193.04,95.25431999999999,Michigan State,USA
+JoeHarris,BKN,12,G-F,198.12,99.79024,Virginia,USA
+KevonHarris,ORL,7,G,198.12,97.975872,Stephen F. Austin,USA
+TobiasHarris,PHI,12,F,200.66,102.511792,Tennessee,USA
+JoshHart,POR,11,G,193.04,97.52228,Villanova,USA
+IsaiahHartenstein,NYK,55,C-F,213.36,113.398,Zalgiris,Germany
+UdonisHaslem,MIA,40,F,200.66,106.59412,Florida,USA
+SamHauser,BOS,30,F,200.66,98.429464,Virginia,USA
+JaxsonHayes,NOP,10,C-F,213.36,99.79024,Texas,USA
+KillianHayes,DET,7,G,195.58,88.45044,Ratiopharm Ulm,France
+GordonHayward,CHA,20,F,200.66,102.0582,Butler,USA
+JuanchoHernangomez,TOR,41,F,205.74,97.068688,Estudiantes,Spain
+WillyHernangomez,NOP,9,C-F,210.82,113.398,Cajasol Sevilla,Spain
+TylerHerro,MIA,14,G,195.58,88.45044,Kentucky,USA
+BuddyHield,IND,24,G,193.04,99.79024,Oklahoma,Bahamas
+HaywoodHighsmith,MIA,24,F,195.58,99.79024,Wheeling Jesuit,USA
+GeorgeHill,MIL,3,G,193.04,85.275296,Indiana-Purdue Indianapolis,USA
+MalcolmHill,CHI,14,F,198.12,99.79024,Illinois,USA
+AaronHoliday,ATL,3,G,182.88,83.91452,UCLA,USA
+JrueHoliday,MIL,21,G,195.58,92.98636,UCLA,USA
+JustinHoliday,ATL,8,F-G,198.12,81.64656,Washington,USA
+RichaunHolmes,SAC,22,F,203.2,106.59412,Bowling Green,USA
+ChetHolmgren,OKC,7,C-F,215.9,88.45044,Gonzaga,USA
+AlHorford,BOS,42,C-F,205.74,108.86207999999999,Florida,Dominican Republic
+TalenHorton-Tucker,UTA,0,G,193.04,106.140528,Iowa State,USA
+DanuelHouse Jr.,PHI,25,F-G,198.12,99.79024,Texas A&M,USA
+CalebHoustan,ORL,2,G,203.2,92.98636,Michigan,Canada
+TrevorHudgins,HOU,12,G,182.88,81.64656,Northwest Missouri State,USA
+KevinHuerter,SAC,9,G-F,200.66,89.811216,Maryland,USA
+FeronHunt,NYK,44,F,203.2,88.45044,Southern Methodist,USA
+De'AndreHunter,ATL,12,F-G,203.2,100.243832,Virginia,USA
+BonesHyland,DEN,3,G,187.96,76.657048,Virginia Commonwealth,USA
+SergeIbaka,MIL,25,F,210.82,106.59412,Ricoh Manresa,Republic of the Congo
+AndreIguodala,GSW,9,G-F,198.12,97.52228,Arizona,USA
+JoeIngles,MIL,7,F-G,205.74,99.79024,Maccabi Tel Aviv,Australia
+BrandonIngram,NOP,14,F,203.2,86.18248,Duke,USA
+KyrieIrving,BKN,11,G,187.96,88.45044,Duke,Australia
+JonathanIsaac,ORL,1,F,208.28,104.32616,Florida State,USA
+JadenIvey,DET,23,G,193.04,88.45044,Purdue,USA
+IsaiahJackson,IND,22,F,205.74,92.98636,Kentucky,USA
+JustinJackson,BOS,44,F,203.2,99.79024,North Carolina,USA
+ReggieJackson,LAC,1,G,187.96,94.347136,Boston College,USA
+JarenJackson Jr.,MEM,13,F-C,208.28,109.76926399999999,Michigan State,USA
+LeBronJames,LAL,6,F,205.74,113.398,St. Vincent-St. Mary HS (OH),USA
+TyJerome,GSW,10,G-F,195.58,88.45044,Virginia,USA
+IsaiahJoe,OKC,11,G,190.5,74.84268,Arkansas,USA
+CameronJohnson,PHX,23,F,203.2,95.25431999999999,North Carolina,USA
+JalenJohnson,ATL,1,F,203.2,99.336648,Duke,USA
+JamesJohnson,IND,16,F,200.66,108.86207999999999,Wake Forest,USA
+KeldonJohnson,SAS,3,F-G,195.58,99.79024,Kentucky,USA
+KeonJohnson,POR,6,G,190.5,83.91452,Tennessee,USA
+NikolaJokic,DEN,15,C,210.82,128.820128,Mega Basket,Serbia
+DamianJones,LAL,30,C,210.82,111.13004,Vanderbilt,USA
+HerbertJones,NOP,5,F,200.66,93.439952,Alabama,USA
+KaiJones,CHA,23,C-F,210.82,100.243832,Texas,Bahamas
+TreJones,SAS,33,G,185.42000000000002,83.91452,Duke,USA
+TyusJones,MEM,21,G,187.96,88.904032,Duke,USA
+DerrickJones Jr.,CHI,5,F,198.12,95.25431999999999,UNLV,USA
+DeAndreJordan,DEN,6,C,210.82,120.20188,Texas A&M,USA
+CoryJoseph,DET,18,G,190.5,90.7184,Texas,Canada
+NikolaJovic,MIA,5,F,208.28,92.98636, ,Serbia
+JohnnyJuzang,UTA,33,G,198.12,94.80072799999999,UCLA,USA
+MfionduKabengele,BOS,27,C,208.28,113.398,Florida State,Canada
+FrankKaminsky,ATL,0,F-C,213.36,108.86207999999999,Wisconsin,USA
+TrevorKeels,NYK,3,G,193.04,100.243832,Duke,USA
+LukeKennard,LAC,5,G,195.58,93.439952,Duke,USA
+GeorgeHill,MIL,3,G,193.04,85.275296,Indiana-Purdue Indianapolis,USA
+MalcolmHill,CHI,14,F,198.12,99.79024,Illinois,USA
+AaronHoliday,ATL,3,G,182.88,83.91452,UCLA,USA
+JrueHoliday,MIL,21,G,195.58,92.98636,UCLA,USA
+JustinHoliday,ATL,8,F-G,198.12,81.64656,Washington,USA
+RichaunHolmes,SAC,22,F,203.2,106.59412,Bowling Green,USA
+ChetHolmgren,OKC,7,C-F,215.9,88.45044,Gonzaga,USA
+AlHorford,BOS,42,C-F,205.74,108.86207999999999,Florida,Dominican Republic
+TalenHorton-Tucker,UTA,0,G,193.04,106.140528,Iowa State,USA
+DanuelHouse Jr.,PHI,25,F-G,198.12,99.79024,Texas A&M,USA
+CalebHoustan,ORL,2,G,203.2,92.98636,Michigan,Canada
+TrevorHudgins,HOU,12,G,182.88,81.64656,Northwest Missouri State,USA
+KevinHuerter,SAC,9,G-F,200.66,89.811216,Maryland,USA
+FeronHunt,NYK,44,F,203.2,88.45044,Southern Methodist,USA
+De'AndreHunter,ATL,12,F-G,203.2,100.243832,Virginia,USA
+BonesHyland,DEN,3,G,187.96,76.657048,Virginia Commonwealth,USA
+SergeIbaka,MIL,25,F,210.82,106.59412,Ricoh Manresa,Republic of the Congo
+AndreIguodala,GSW,9,G-F,198.12,97.52228,Arizona,USA
+JoeIngles,MIL,7,F-G,205.74,99.79024,Maccabi Tel Aviv,Australia
+BrandonIngram,NOP,14,F,203.2,86.18248,Duke,USA
+KyrieIrving,BKN,11,G,187.96,88.45044,Duke,Australia
+JonathanIsaac,ORL,1,F,208.28,104.32616,Florida State,USA
+JadenIvey,DET,23,G,193.04,88.45044,Purdue,USA
+IsaiahJackson,IND,22,F,205.74,92.98636,Kentucky,USA
+JustinJackson,BOS,44,F,203.2,99.79024,North Carolina,USA
+ReggieJackson,LAC,1,G,187.96,94.347136,Boston College,USA
+JarenJackson Jr.,MEM,13,F-C,208.28,109.76926399999999,Michigan State,USA
+LeBronJames,LAL,6,F,205.74,113.398,St. Vincent-St. Mary HS (OH),USA
+TyJerome,GSW,10,G-F,195.58,88.45044,Virginia,USA
+IsaiahJoe,OKC,11,G,190.5,74.84268,Arkansas,USA
+CameronJohnson,PHX,23,F,203.2,95.25431999999999,North Carolina,USA
+JalenJohnson,ATL,1,F,203.2,99.336648,Duke,USA
+JamesJohnson,IND,16,F,200.66,108.86207999999999,Wake Forest,USA
+KeldonJohnson,SAS,3,F-G,195.58,99.79024,Kentucky,USA
+KeonJohnson,POR,6,G,190.5,83.91452,Tennessee,USA
+NikolaJokic,DEN,15,C,210.82,128.820128,Mega Basket,Serbia
+DamianJones,LAL,30,C,210.82,111.13004,Vanderbilt,USA
+HerbertJones,NOP,5,F,200.66,93.439952,Alabama,USA
+KaiJones,CHA,23,C-F,210.82,100.243832,Texas,Bahamas
+TreJones,SAS,33,G,185.42000000000002,83.91452,Duke,USA
+TyusJones,MEM,21,G,187.96,88.904032,Duke,USA
+DerrickJones Jr.,CHI,5,F,198.12,95.25431999999999,UNLV,USA
+DeAndreJordan,DEN,6,C,210.82,120.20188,Texas A&M,USA
+CoryJoseph,DET,18,G,190.5,90.7184,Texas,Canada
+NikolaJovic,MIA,5,F,208.28,92.98636, ,Serbia
+JohnnyJuzang,UTA,33,G,198.12,94.80072799999999,UCLA,USA
+MfionduKabengele,BOS,27,C,208.28,113.398,Florida State,Canada
+FrankKaminsky,ATL,0,F-C,213.36,108.86207999999999,Wisconsin,USA
+TrevorKeels,NYK,3,G,193.04,100.243832,Duke,USA
+LukeKennard,LAC,5,G,195.58,93.439952,Duke,USA
+WalkerKessler,UTA,24,C,213.36,111.13004,Auburn,USA
+BraxtonKey,DET,8,F,203.2,102.0582,Virginia,USA
+CoreyKispert,WAS,24,F,198.12,101.604608,Gonzaga,USA
+MaxiKleber,DAL,42,F,208.28,108.86207999999999,Bayern Munich,Germany
+NathanKnight,MIN,13,F-C,203.2,114.758776,William & Mary,USA
+KevinKnox II,DET,20,F,200.66,97.52228,Kentucky,USA
+ChristianKoloko,TOR,35,C,213.36,104.32616,Arizona,Cameroon
+JohnKonchar,MEM,46,G,195.58,95.25431999999999,Indiana-Purdue Fort Wayne,USA
+FurkanKorkmaz,PHI,30,G-F,200.66,91.625584,Anadolu Efes,Turkey
+LukeKornet,BOS,40,C-F,218.44,113.398,Vanderbilt,USA
+VitKrejci,ATL,27,G,203.2,88.45044,Zaragoza,Czech Republic
+JonathanKuminga,GSW,00,F,200.66,102.0582,NBA G League Ignite,DRC
+KyleKuzma,WAS,33,F,205.74,100.243832,Utah,USA
+JakeLaRavia,MEM,3,F,200.66,106.59412,Wake Forest,USA
+ZachLaVine,CHI,8,G-F,195.58,90.7184,UCLA,USA
+AnthonyLamb,GSW,40,F,198.12,102.965384,Vermont,USA
+JockLandale,PHX,11,C,210.82,115.66596,St. Mary's,Australia
+RomeoLangford,SAS,35,G-F,195.58,97.975872,Indiana,USA
+CarisLeVert,CLE,3,G,198.12,92.98636,Michigan,USA
+DamionLee,PHX,10,G-F,195.58,95.25431999999999,Drexel,USA
+AlexLen,SAC,25,C,218.44,113.398,Maryland,Ukraine
+KawhiLeonard,LAC,2,F,200.66,102.0582,San Diego State,USA
+KiraLewis Jr.,NOP,13,G,185.42000000000002,77.11064,Alabama,USA
+E.J.Liddell,NOP,,F,198.12,108.86207999999999,Ohio State,USA
+DamianLillard,POR,0,G,187.96,88.45044,Weber State,USA
+NassirLittle,POR,10,F-G,195.58,99.79024,North Carolina,USA
+IsaiahLivers,DET,12,F,198.12,105.233344,Michigan,USA
+KennethLofton Jr.,MEM,6,F,198.12,124.7378,Louisiana Tech,USA
+KevonLooney,GSW,5,F,205.74,100.697424,UCLA,USA
+BrookLopez,MIL,11,C,215.9,127.912944,Stanford,USA
+RobinLopez,CLE,33,C,213.36,127.459352,Stanford,USA
+KevinLove,CLE,0,F-C,203.2,113.851592,UCLA,USA
+KyleLowry,MIA,7,G,182.88,88.904032,Villanova,USA
+TreyLyles,SAC,41,F,205.74,106.140528,Kentucky,Canada
+TheoMaledon,CHA,9,G,195.58,79.3786,Asvel,France
+SandroMamukelashvili,MIL,54,F-C,208.28,108.86207999999999,Seton Hall,Georgia
+TeranceMann,LAC,14,G-F,195.58,97.52228,Florida State,USA
+TreMann,OKC,23,G,190.5,80.739376,Florida,USA
+BobanMarjanovic,HOU,51,C,223.52,131.54167999999999,Crvena zvezda,Serbia
+LauriMarkkanen,UTA,23,F-C,213.36,108.86207999999999,Arizona,Finland
+NajiMarshall,NOP,8,F,200.66,99.79024,Xavier,USA
+CalebMartin,MIA,16,F,195.58,92.98636,Nevada,USA
+CodyMartin,CHA,11,F,198.12,92.98636,Nevada,USA
+TyreseMartin,ATL,22,G,198.12,97.52228,Connecticut,USA
+KenyonMartin Jr.,HOU,6,F,200.66,97.52228,IMG Academy (FL),USA
+GarrisonMathews,HOU,25,G,198.12,97.52228,Lipscomb,USA
+BennedictMathurin,IND,00,G-F,195.58,95.25431999999999,Arizona,USA
+WesleyMatthews,MIL,23,G,195.58,99.79024,Marquette,USA
+TyreseMaxey,PHI,0,G,187.96,90.7184,Kentucky,USA
+MilesMcBride,NYK,2,G,187.96,88.45044,West Virginia,USA
+WalkerKessler,UTA,24,C,213.36,111.13004,Auburn,USA
+BraxtonKey,DET,8,F,203.2,102.0582,Virginia,USA
+CoreyKispert,WAS,24,F,198.12,101.604608,Gonzaga,USA
+MaxiKleber,DAL,42,F,208.28,108.86207999999999,Bayern Munich,Germany
+NathanKnight,MIN,13,F-C,203.2,114.758776,William & Mary,USA
+KevinKnox II,DET,20,F,200.66,97.52228,Kentucky,USA
+ChristianKoloko,TOR,35,C,213.36,104.32616,Arizona,Cameroon
+JohnKonchar,MEM,46,G,195.58,95.25431999999999,Indiana-Purdue Fort Wayne,USA
+FurkanKorkmaz,PHI,30,G-F,200.66,91.625584,Anadolu Efes,Turkey
+LukeKornet,BOS,40,C-F,218.44,113.398,Vanderbilt,USA
+VitKrejci,ATL,27,G,203.2,88.45044,Zaragoza,Czech Republic
+JonathanKuminga,GSW,00,F,200.66,102.0582,NBA G League Ignite,DRC
+KyleKuzma,WAS,33,F,205.74,100.243832,Utah,USA
+JakeLaRavia,MEM,3,F,200.66,106.59412,Wake Forest,USA
+ZachLaVine,CHI,8,G-F,195.58,90.7184,UCLA,USA
+AnthonyLamb,GSW,40,F,198.12,102.965384,Vermont,USA
+JockLandale,PHX,11,C,210.82,115.66596,St. Mary's,Australia
+RomeoLangford,SAS,35,G-F,195.58,97.975872,Indiana,USA
+CarisLeVert,CLE,3,G,198.12,92.98636,Michigan,USA
+DamionLee,PHX,10,G-F,195.58,95.25431999999999,Drexel,USA
+AlexLen,SAC,25,C,218.44,113.398,Maryland,Ukraine
+KawhiLeonard,LAC,2,F,200.66,102.0582,San Diego State,USA
+KiraLewis Jr.,NOP,13,G,185.42000000000002,77.11064,Alabama,USA
+E.J.Liddell,NOP,,F,198.12,108.86207999999999,Ohio State,USA
+DamianLillard,POR,0,G,187.96,88.45044,Weber State,USA
+NassirLittle,POR,10,F-G,195.58,99.79024,North Carolina,USA
+IsaiahLivers,DET,12,F,198.12,105.233344,Michigan,USA
+KennethLofton Jr.,MEM,6,F,198.12,124.7378,Louisiana Tech,USA
+KevonLooney,GSW,5,F,205.74,100.697424,UCLA,USA
+BrookLopez,MIL,11,C,215.9,127.912944,Stanford,USA
+RobinLopez,CLE,33,C,213.36,127.459352,Stanford,USA
+KevinLove,CLE,0,F-C,203.2,113.851592,UCLA,USA
+KyleLowry,MIA,7,G,182.88,88.904032,Villanova,USA
+TreyLyles,SAC,41,F,205.74,106.140528,Kentucky,Canada
+TheoMaledon,CHA,9,G,195.58,79.3786,Asvel,France
+SandroMamukelashvili,MIL,54,F-C,208.28,108.86207999999999,Seton Hall,Georgia
+TeranceMann,LAC,14,G-F,195.58,97.52228,Florida State,USA
+TreMann,OKC,23,G,190.5,80.739376,Florida,USA
+BobanMarjanovic,HOU,51,C,223.52,131.54167999999999,Crvena zvezda,Serbia
+LauriMarkkanen,UTA,23,F-C,213.36,108.86207999999999,Arizona,Finland
+NajiMarshall,NOP,8,F,200.66,99.79024,Xavier,USA
+CalebMartin,MIA,16,F,195.58,92.98636,Nevada,USA
+CodyMartin,CHA,11,F,198.12,92.98636,Nevada,USA
+TyreseMartin,ATL,22,G,198.12,97.52228,Connecticut,USA
+KenyonMartin Jr.,HOU,6,F,200.66,97.52228,IMG Academy (FL),USA
+GarrisonMathews,HOU,25,G,198.12,97.52228,Lipscomb,USA
+BennedictMathurin,IND,00,G-F,195.58,95.25431999999999,Arizona,USA
+WesleyMatthews,MIL,23,G,195.58,99.79024,Marquette,USA
+TyreseMaxey,PHI,0,G,187.96,90.7184,Kentucky,USA
+MilesMcBride,NYK,2,G,187.96,88.45044,West Virginia,USA
+CJMcCollum,NOP,3,G,190.5,86.18248,Lehigh,USA
+T.J.McConnell,IND,9,G,185.42000000000002,86.18248,Arizona,USA
+JadenMcDaniels,MIN,3,F,205.74,83.91452,Washington,USA
+JalenMcDaniels,CHA,6,F-C,205.74,92.98636,San Diego State,USA
+DougMcDermott,SAS,17,F,198.12,102.0582,Creighton,USA
+JaValeMcGee,DAL,00,C-F,213.36,122.46984,Nevada,USA
+BryceMcGowens,CHA,7,G,198.12,79.3786,Nebraska,USA
+RodneyMcGruder,DET,17,G,193.04,92.98636,Kansas State,USA
+JordanMcLaughlin,MIN,6,G,182.88,83.91452,Southern California,USA
+De'AnthonyMelton,PHI,8,G,187.96,90.7184,Southern California,USA
+ChimezieMetu,SAC,7,F-C,205.74,102.0582,Southern California,USA
+KhrisMiddleton,MIL,22,F,200.66,100.697424,Texas A&M,USA
+PattyMills,BKN,8,G,182.88,81.64656,St. Mary's,Australia
+ShakeMilton,PHI,18,G-F,195.58,92.98636,Southern Methodist,USA
+JoshMinott,MIN,8,F,203.2,92.98636,Memphis,USA
+DavionMitchell,SAC,15,G,182.88,91.625584,Baylor,USA
+DonovanMitchell,CLE,45,G,185.42000000000002,97.52228,Louisville,USA
+EvanMobley,CLE,4,C,210.82,97.52228,Southern California,USA
+IsaiahMobley,CLE,15,F,203.2,107.954896,Southern California,USA
+ChimaMoneke,SAC,19,F,195.58,101.151016,California-Davis,Nigeria
+MalikMonk,SAC,0,G,190.5,90.7184,Kentucky,USA
+MosesMoody,GSW,4,G,195.58,95.707912,Arkansas,USA
+WendellMoore Jr.,MIN,7,G,195.58,97.52228,Duke,USA
+JaMorant,MEM,12,G,187.96,78.925008,Murray State,USA
+MarkieffMorris,BKN,13,F,205.74,111.13004,Kansas,USA
+MonteMorris,WAS,22,G,187.96,83.007336,Iowa State,USA
+MarcusMorris Sr.,LAC,8,F,203.2,98.883056,Kansas,USA
+TreyMurphy III,NOP,25,F,203.2,93.439952,Virginia,USA
+DejounteMurray,ATL,5,G,195.58,81.64656,Washington,USA
+JamalMurray,DEN,27,G,193.04,97.52228,Kentucky,Canada
+KeeganMurray,SAC,13,F,203.2,102.0582,Iowa,USA
+MikeMuscala,OKC,33,F-C,210.82,108.86207999999999,Bucknell,USA
+SviMykhailiuk,NYK,17,G-F,200.66,92.98636,Kansas,Ukraine
+LarryNance Jr.,NOP,22,F-C,203.2,111.13004,Wyoming,USA
+AndrewNembhard,IND,2,G-F,190.5,86.636072,Gonzaga,Canada
+AaronNesmith,IND,23,G-F,195.58,97.52228,Vanderbilt,USA
+RaulNeto,CLE,19,G,187.96,81.64656,Murcia,Brazil
+GeorgesNiang,PHI,20,F,200.66,104.32616,Iowa State,USA
+DaishenNix,HOU,15,G,193.04,102.511792,NBA G League Ignite,USA
+ZekeNnaji,DEN,22,F-C,205.74,108.86207999999999,Arizona,USA
+NerlensNoel,DET,3,C-F,208.28,99.79024,Kentucky,USA
+JaylenNowell,MIN,4,G,193.04,91.171992,Washington,USA
+FrankNtilikina,DAL,21,G,193.04,90.7184,Strasbourg IG,France
+KendrickNunn,LAL,12,G,190.5,86.18248,Oakland,USA
+JusufNurkic,POR,27,C,213.36,131.54167999999999,Cedevita,Bosnia and Herzegovina
+JordanNwora,MIL,13,F,205.74,102.0582,Louisville,USA
+RoyceO'Neale,BKN,00,F,198.12,102.511792,Baylor,USA
+ChumaOkeke,ORL,3,F,203.2,103.872568,Auburn,USA
+JoshOkogie,PHX,2,G,193.04,96.615096,Georgia Tech,Nigeria
+OnyekaOkongwu,ATL,17,F-C,205.74,108.86207999999999,Southern California,USA
+CJMcCollum,NOP,3,G,190.5,86.18248,Lehigh,USA
+T.J.McConnell,IND,9,G,185.42000000000002,86.18248,Arizona,USA
+JadenMcDaniels,MIN,3,F,205.74,83.91452,Washington,USA
+JalenMcDaniels,CHA,6,F-C,205.74,92.98636,San Diego State,USA
+DougMcDermott,SAS,17,F,198.12,102.0582,Creighton,USA
+JaValeMcGee,DAL,00,C-F,213.36,122.46984,Nevada,USA
+BryceMcGowens,CHA,7,G,198.12,79.3786,Nebraska,USA
+RodneyMcGruder,DET,17,G,193.04,92.98636,Kansas State,USA
+JordanMcLaughlin,MIN,6,G,182.88,83.91452,Southern California,USA
+De'AnthonyMelton,PHI,8,G,187.96,90.7184,Southern California,USA
+ChimezieMetu,SAC,7,F-C,205.74,102.0582,Southern California,USA
+KhrisMiddleton,MIL,22,F,200.66,100.697424,Texas A&M,USA
+PattyMills,BKN,8,G,182.88,81.64656,St. Mary's,Australia
+ShakeMilton,PHI,18,G-F,195.58,92.98636,Southern Methodist,USA
+JoshMinott,MIN,8,F,203.2,92.98636,Memphis,USA
+DavionMitchell,SAC,15,G,182.88,91.625584,Baylor,USA
+DonovanMitchell,CLE,45,G,185.42000000000002,97.52228,Louisville,USA
+EvanMobley,CLE,4,C,210.82,97.52228,Southern California,USA
+IsaiahMobley,CLE,15,F,203.2,107.954896,Southern California,USA
+ChimaMoneke,SAC,19,F,195.58,101.151016,California-Davis,Nigeria
+MalikMonk,SAC,0,G,190.5,90.7184,Kentucky,USA
+MosesMoody,GSW,4,G,195.58,95.707912,Arkansas,USA
+WendellMoore Jr.,MIN,7,G,195.58,97.52228,Duke,USA
+JaMorant,MEM,12,G,187.96,78.925008,Murray State,USA
+MarkieffMorris,BKN,13,F,205.74,111.13004,Kansas,USA
+MonteMorris,WAS,22,G,187.96,83.007336,Iowa State,USA
+MarcusMorris Sr.,LAC,8,F,203.2,98.883056,Kansas,USA
+TreyMurphy III,NOP,25,F,203.2,93.439952,Virginia,USA
+DejounteMurray,ATL,5,G,195.58,81.64656,Washington,USA
+JamalMurray,DEN,27,G,193.04,97.52228,Kentucky,Canada
+KeeganMurray,SAC,13,F,203.2,102.0582,Iowa,USA
+MikeMuscala,OKC,33,F-C,210.82,108.86207999999999,Bucknell,USA
+SviMykhailiuk,NYK,17,G-F,200.66,92.98636,Kansas,Ukraine
+LarryNance Jr.,NOP,22,F-C,203.2,111.13004,Wyoming,USA
+AndrewNembhard,IND,2,G-F,190.5,86.636072,Gonzaga,Canada
+AaronNesmith,IND,23,G-F,195.58,97.52228,Vanderbilt,USA
+RaulNeto,CLE,19,G,187.96,81.64656,Murcia,Brazil
+GeorgesNiang,PHI,20,F,200.66,104.32616,Iowa State,USA
+DaishenNix,HOU,15,G,193.04,102.511792,NBA G League Ignite,USA
+ZekeNnaji,DEN,22,F-C,205.74,108.86207999999999,Arizona,USA
+NerlensNoel,DET,3,C-F,208.28,99.79024,Kentucky,USA
+JaylenNowell,MIN,4,G,193.04,91.171992,Washington,USA
+FrankNtilikina,DAL,21,G,193.04,90.7184,Strasbourg IG,France
+KendrickNunn,LAL,12,G,190.5,86.18248,Oakland,USA
+JusufNurkic,POR,27,C,213.36,131.54167999999999,Cedevita,Bosnia and Herzegovina
+JordanNwora,MIL,13,F,205.74,102.0582,Louisville,USA
+RoyceO'Neale,BKN,00,F,198.12,102.511792,Baylor,USA
+ChumaOkeke,ORL,3,F,203.2,103.872568,Auburn,USA
+JoshOkogie,PHX,2,G,193.04,96.615096,Georgia Tech,Nigeria
+OnyekaOkongwu,ATL,17,F-C,205.74,108.86207999999999,Southern California,USA
+IsaacOkoro,CLE,35,F-G,195.58,102.0582,Auburn,USA
+KZOkpala,SAC,30,F-G,203.2,97.52228,Stanford,USA
+VictorOladipo,MIA,4,G,190.5,96.615096,Indiana,USA
+KellyOlynyk,UTA,41,F-C,210.82,108.86207999999999,Gonzaga,Canada
+EugeneOmoruyi,OKC,97,F,198.12,106.59412,Oregon,Nigeria
+CediOsman,CLE,16,F,200.66,104.32616,Anadolu Efes,Turkey
+KellyOubre Jr.,CHA,12,F-G,198.12,92.079176,Kansas,USA
+ChrisPaul,PHX,3,G,182.88,79.3786,Wake Forest,USA
+CameronPayne,PHX,15,G,185.42000000000002,83.007336,Murray State,USA
+GaryPayton II,POR,00,G,187.96,88.45044,Oregon State,USA
+TheoPinson,DAL,1,G-F,200.66,96.161504,North Carolina,USA
+ScottyPippen Jr.,LAL,14,G,185.42000000000002,77.11064,Vanderbilt,USA
+MasonPlumlee,CHA,24,F-C,213.36,115.212368,Duke,USA
+JakobPoeltl,SAS,25,C,215.9,111.13004,Utah,Austria
+AleksejPokusevski,OKC,17,F,213.36,95.25431999999999,Olympiacos,Serbia
+JordanPoole,GSW,3,G,193.04,87.996848,Michigan,USA
+KevinPorter Jr.,HOU,3,G-F,193.04,92.079176,Southern California,USA
+MichaelPorter Jr.,DEN,1,F,208.28,98.883056,Missouri,USA
+OttoPorter Jr.,TOR,32,F,203.2,89.811216,Georgetown,USA
+BobbyPortis,MIL,9,F,210.82,113.398,Arkansas,USA
+KristapsPorzingis,WAS,6,F-C,220.98,108.86207999999999,Cajasol Sevilla,Latvia
+MicahPotter,UTA,25,C,203.2,112.490816,Wisconsin,USA
+DwightPowell,DAL,7,F-C,208.28,108.86207999999999,Stanford,Canada
+NormanPowell,LAC,24,G,193.04,97.52228,UCLA,USA
+JasonPreston,LAC,17,G,190.5,82.100152,Ohio,USA
+JoshuaPrimo,,,G,198.12,85.728888,Alabama,Canada
+TaureanPrince,MIN,12,F,198.12,98.883056,Baylor,USA
+PaytonPritchard,BOS,11,G,185.42000000000002,88.45044,Oregon,USA
+TrevelinQueen,IND,8,G,198.12,86.18248,New Mexico State,USA
+NeemiasQueta,SAC,88,C,213.36,112.490816,Utah State,Portugal
+ImmanuelQuickley,NYK,5,G,187.96,86.18248,Kentucky,USA
+JuliusRandle,NYK,30,F-C,203.2,113.398,Kentucky,USA
+AustinReaves,LAL,15,G,195.58,89.357624,Oklahoma,USA
+CamReddish,NYK,0,F-G,200.66,98.429464,Duke,USA
+DavonReed,DEN,9,G,195.58,93.439952,Miami,USA
+PaulReed,PHI,44,F,205.74,95.25431999999999,DePaul,USA
+NazReid,MIN,11,C-F,205.74,119.748288,Louisiana State,USA
+NickRichards,CHA,4,C,213.36,111.13004,Kentucky,Jamaica
+JoshRichardson,SAS,7,G,198.12,90.7184,Tennessee,USA
+AustinRivers,MIN,25,G,193.04,90.7184,Duke,USA
+DuncanRobinson,MIA,55,F,200.66,97.52228,Michigan,USA
+MitchellRobinson,NYK,23,C-F,213.36,108.86207999999999,Western Kentucky,USA
+JeremiahRobinson-Earl,OKC,50,F,203.2,108.86207999999999,Villanova,USA
+IsaiahRoby,SAS,18,F,203.2,104.32616,Nebraska,USA
+DavidRoddy,MEM,27,F,193.04,115.66596,Colorado State,USA
+RyanRollins,GSW,2,G,190.5,81.64656,Toledo,USA
+DerrickRose,NYK,4,G,190.5,90.7184,Memphis,USA
+TerrenceRoss,ORL,31,G-F,200.66,93.439952,Washington,USA
+TerryRozier,CHA,3,G,185.42000000000002,86.18248,Louisville,USA
+RickyRubio,CLE,13,G,187.96,86.18248,FC Barcelona,Spain
+IsaacOkoro,CLE,35,F-G,195.58,102.0582,Auburn,USA
+KZOkpala,SAC,30,F-G,203.2,97.52228,Stanford,USA
+VictorOladipo,MIA,4,G,190.5,96.615096,Indiana,USA
+KellyOlynyk,UTA,41,F-C,210.82,108.86207999999999,Gonzaga,Canada
+EugeneOmoruyi,OKC,97,F,198.12,106.59412,Oregon,Nigeria
+CediOsman,CLE,16,F,200.66,104.32616,Anadolu Efes,Turkey
+KellyOubre Jr.,CHA,12,F-G,198.12,92.079176,Kansas,USA
+ChrisPaul,PHX,3,G,182.88,79.3786,Wake Forest,USA
+CameronPayne,PHX,15,G,185.42000000000002,83.007336,Murray State,USA
+GaryPayton II,POR,00,G,187.96,88.45044,Oregon State,USA
+TheoPinson,DAL,1,G-F,200.66,96.161504,North Carolina,USA
+ScottyPippen Jr.,LAL,14,G,185.42000000000002,77.11064,Vanderbilt,USA
+MasonPlumlee,CHA,24,F-C,213.36,115.212368,Duke,USA
+JakobPoeltl,SAS,25,C,215.9,111.13004,Utah,Austria
+AleksejPokusevski,OKC,17,F,213.36,95.25431999999999,Olympiacos,Serbia
+JordanPoole,GSW,3,G,193.04,87.996848,Michigan,USA
+KevinPorter Jr.,HOU,3,G-F,193.04,92.079176,Southern California,USA
+MichaelPorter Jr.,DEN,1,F,208.28,98.883056,Missouri,USA
+OttoPorter Jr.,TOR,32,F,203.2,89.811216,Georgetown,USA
+BobbyPortis,MIL,9,F,210.82,113.398,Arkansas,USA
+KristapsPorzingis,WAS,6,F-C,220.98,108.86207999999999,Cajasol Sevilla,Latvia
+MicahPotter,UTA,25,C,203.2,112.490816,Wisconsin,USA
+DwightPowell,DAL,7,F-C,208.28,108.86207999999999,Stanford,Canada
+NormanPowell,LAC,24,G,193.04,97.52228,UCLA,USA
+JasonPreston,LAC,17,G,190.5,82.100152,Ohio,USA
+JoshuaPrimo,,,G,198.12,85.728888,Alabama,Canada
+TaureanPrince,MIN,12,F,198.12,98.883056,Baylor,USA
+PaytonPritchard,BOS,11,G,185.42000000000002,88.45044,Oregon,USA
+TrevelinQueen,IND,8,G,198.12,86.18248,New Mexico State,USA
+NeemiasQueta,SAC,88,C,213.36,112.490816,Utah State,Portugal
+ImmanuelQuickley,NYK,5,G,187.96,86.18248,Kentucky,USA
+JuliusRandle,NYK,30,F-C,203.2,113.398,Kentucky,USA
+AustinReaves,LAL,15,G,195.58,89.357624,Oklahoma,USA
+CamReddish,NYK,0,F-G,200.66,98.429464,Duke,USA
+DavonReed,DEN,9,G,195.58,93.439952,Miami,USA
+PaulReed,PHI,44,F,205.74,95.25431999999999,DePaul,USA
+NazReid,MIN,11,C-F,205.74,119.748288,Louisiana State,USA
+NickRichards,CHA,4,C,213.36,111.13004,Kentucky,Jamaica
+JoshRichardson,SAS,7,G,198.12,90.7184,Tennessee,USA
+AustinRivers,MIN,25,G,193.04,90.7184,Duke,USA
+DuncanRobinson,MIA,55,F,200.66,97.52228,Michigan,USA
+MitchellRobinson,NYK,23,C-F,213.36,108.86207999999999,Western Kentucky,USA
+JeremiahRobinson-Earl,OKC,50,F,203.2,108.86207999999999,Villanova,USA
+IsaiahRoby,SAS,18,F,203.2,104.32616,Nebraska,USA
+DavidRoddy,MEM,27,F,193.04,115.66596,Colorado State,USA
+RyanRollins,GSW,2,G,190.5,81.64656,Toledo,USA
+DerrickRose,NYK,4,G,190.5,90.7184,Memphis,USA
+TerrenceRoss,ORL,31,G-F,200.66,93.439952,Washington,USA
+TerryRozier,CHA,3,G,185.42000000000002,86.18248,Louisville,USA
+RickyRubio,CLE,13,G,187.96,86.18248,FC Barcelona,Spain
+D'AngeloRussell,MIN,0,G,193.04,87.543256,Ohio State,USA
+MattRyan,LAL,37,F,198.12,97.52228,Tennessee-Chattanooga,USA
+DomantasSabonis,SAC,10,F-C,215.9,108.86207999999999,Gonzaga,Lithuania
+DarioSaric,PHX,20,F-C,208.28,102.0582,Anadolu Efes,Croatia
+OlivierSarr,POR,33,C,210.82,108.86207999999999,Kentucky,France
+JordanSchakel,WAS,20,G,198.12,90.7184,San Diego State,USA
+AdmiralSchofield,ORL,25,F,195.58,109.31567199999999,Tennessee,United Kingdom
+DennisSchroder,LAL,17,G,185.42000000000002,78.017824,Braunschweig,Germany
+DereonSeabron,NOP,0,G,195.58,81.64656,North Carolina State,USA
+AlperenSengun,HOU,28,C,210.82,110.222856,Besiktas,Turkey
+CollinSexton,UTA,2,G,187.96,86.18248,Alabama,USA
+LandryShamet,PHX,14,G,193.04,86.18248,Wichita State,USA
+Day'RonSharpe,BKN,20,C,205.74,120.20188,North Carolina,USA
+ShaedonSharpe,POR,17,G,195.58,90.7184,Kentucky,Canada
+PascalSiakam,TOR,43,F,203.2,104.32616,New Mexico State,Cameroon
+BenSimmons,BKN,10,G-F,208.28,108.86207999999999,Louisiana State,Australia
+MarkoSimonovic,CHI,19,C,213.36,99.79024,Mega Basket,Montenegro
+AnferneeSimons,POR,1,G,190.5,82.100152,Edgewater HS (FL),USA
+JerichoSims,NYK,45,C,208.28,113.398,Texas,USA
+MarcusSmart,BOS,36,G,193.04,99.79024,Oklahoma State,USA
+DruSmith,MIA,9,G,190.5,92.079176,Missouri,USA
+IshSmith,DEN,14,G,182.88,79.3786,Wake Forest,USA
+JalenSmith,IND,25,F-C,205.74,97.52228,Maryland,USA
+DennisSmith Jr.,CHA,8,G,187.96,92.98636,North Carolina State,USA
+JabariSmith Jr.,HOU,1,F,210.82,99.79024,Auburn,USA
+JeremySochan,SAS,10,F,203.2,104.32616,Baylor,Poland
+JadenSpringer,PHI,11,G,193.04,91.625584,Tennessee,USA
+LamarStevens,CLE,8,F,198.12,104.32616,Penn State,USA
+IsaiahStewart,DET,28,F-C,203.2,113.398,Washington,USA
+MaxStrus,MIA,31,G-F,195.58,97.52228,DePaul,USA
+JalenSuggs,ORL,4,G,195.58,92.98636,Gonzaga,USA
+EdmondSumner,BKN,4,G,193.04,88.904032,Xavier,USA
+ColeSwider,LAL,20,F,205.74,99.79024,Syracuse,USA
+Jae'SeanTate,HOU,8,F,195.58,104.32616,Ohio State,USA
+JaysonTatum,BOS,0,F-G,203.2,95.25431999999999,Duke,USA
+TerryTaylor,IND,21,F,193.04,104.32616,Austin Peay,USA
+GarrettTemple,NOP,41,G-F,198.12,88.45044,Louisiana State,USA
+DalenTerry,CHI,25,F,200.66,88.45044,Arizona,USA
+DanielTheis,IND,27,F-C,203.2,111.13004,Brose Bamberg,Germany
+CamThomas,BKN,24,G,190.5,95.25431999999999,Louisiana State,Japan
+KlayThompson,GSW,11,G,198.12,99.79024,Washington State,USA
+JTThor,CHA,21,F,205.74,92.079176,Auburn,USA
+MatisseThybulle,PHI,22,G-F,195.58,91.171992,Washington,USA
+XavierTillman,MEM,2,F,200.66,111.13004,Michigan State,USA
+IsaiahTodd,WAS,14,F,205.74,99.336648,NBA G League Ignite,USA
+ObiToppin,NYK,1,F,205.74,99.79024,Dayton,USA
+JuanToscano-Anderson,LAL,95,F,198.12,94.80072799999999,Marquette,USA
+Karl-AnthonyTowns,MIN,32,C-F,213.36,112.490816,Kentucky,USA
+GaryTrent Jr.,TOR,33,G-F,195.58,94.80072799999999,Duke,USA
+P.J.Tucker,PHI,17,F,195.58,111.13004,Texas,USA
+D'AngeloRussell,MIN,0,G,193.04,87.543256,Ohio State,USA
+MattRyan,LAL,37,F,198.12,97.52228,Tennessee-Chattanooga,USA
+DomantasSabonis,SAC,10,F-C,215.9,108.86207999999999,Gonzaga,Lithuania
+DarioSaric,PHX,20,F-C,208.28,102.0582,Anadolu Efes,Croatia
+OlivierSarr,POR,33,C,210.82,108.86207999999999,Kentucky,France
+JordanSchakel,WAS,20,G,198.12,90.7184,San Diego State,USA
+AdmiralSchofield,ORL,25,F,195.58,109.31567199999999,Tennessee,United Kingdom
+DennisSchroder,LAL,17,G,185.42000000000002,78.017824,Braunschweig,Germany
+DereonSeabron,NOP,0,G,195.58,81.64656,North Carolina State,USA
+AlperenSengun,HOU,28,C,210.82,110.222856,Besiktas,Turkey
+CollinSexton,UTA,2,G,187.96,86.18248,Alabama,USA
+LandryShamet,PHX,14,G,193.04,86.18248,Wichita State,USA
+Day'RonSharpe,BKN,20,C,205.74,120.20188,North Carolina,USA
+ShaedonSharpe,POR,17,G,195.58,90.7184,Kentucky,Canada
+PascalSiakam,TOR,43,F,203.2,104.32616,New Mexico State,Cameroon
+BenSimmons,BKN,10,G-F,208.28,108.86207999999999,Louisiana State,Australia
+MarkoSimonovic,CHI,19,C,213.36,99.79024,Mega Basket,Montenegro
+AnferneeSimons,POR,1,G,190.5,82.100152,Edgewater HS (FL),USA
+JerichoSims,NYK,45,C,208.28,113.398,Texas,USA
+MarcusSmart,BOS,36,G,193.04,99.79024,Oklahoma State,USA
+DruSmith,MIA,9,G,190.5,92.079176,Missouri,USA
+IshSmith,DEN,14,G,182.88,79.3786,Wake Forest,USA
+JalenSmith,IND,25,F-C,205.74,97.52228,Maryland,USA
+DennisSmith Jr.,CHA,8,G,187.96,92.98636,North Carolina State,USA
+JabariSmith Jr.,HOU,1,F,210.82,99.79024,Auburn,USA
+JeremySochan,SAS,10,F,203.2,104.32616,Baylor,Poland
+JadenSpringer,PHI,11,G,193.04,91.625584,Tennessee,USA
+LamarStevens,CLE,8,F,198.12,104.32616,Penn State,USA
+IsaiahStewart,DET,28,F-C,203.2,113.398,Washington,USA
+MaxStrus,MIA,31,G-F,195.58,97.52228,DePaul,USA
+JalenSuggs,ORL,4,G,195.58,92.98636,Gonzaga,USA
+EdmondSumner,BKN,4,G,193.04,88.904032,Xavier,USA
+ColeSwider,LAL,20,F,205.74,99.79024,Syracuse,USA
+Jae'SeanTate,HOU,8,F,195.58,104.32616,Ohio State,USA
+JaysonTatum,BOS,0,F-G,203.2,95.25431999999999,Duke,USA
+TerryTaylor,IND,21,F,193.04,104.32616,Austin Peay,USA
+GarrettTemple,NOP,41,G-F,198.12,88.45044,Louisiana State,USA
+DalenTerry,CHI,25,F,200.66,88.45044,Arizona,USA
+DanielTheis,IND,27,F-C,203.2,111.13004,Brose Bamberg,Germany
+CamThomas,BKN,24,G,190.5,95.25431999999999,Louisiana State,Japan
+KlayThompson,GSW,11,G,198.12,99.79024,Washington State,USA
+JTThor,CHA,21,F,205.74,92.079176,Auburn,USA
+MatisseThybulle,PHI,22,G-F,195.58,91.171992,Washington,USA
+XavierTillman,MEM,2,F,200.66,111.13004,Michigan State,USA
+IsaiahTodd,WAS,14,F,205.74,99.336648,NBA G League Ignite,USA
+ObiToppin,NYK,1,F,205.74,99.79024,Dayton,USA
+JuanToscano-Anderson,LAL,95,F,198.12,94.80072799999999,Marquette,USA
+Karl-AnthonyTowns,MIN,32,C-F,213.36,112.490816,Kentucky,USA
+GaryTrent Jr.,TOR,33,G-F,195.58,94.80072799999999,Duke,USA
+P.J.Tucker,PHI,17,F,195.58,111.13004,Texas,USA
+MylesTurner,IND,33,C-F,210.82,113.398,Texas,USA
+JonasValanciunas,NOP,17,C,210.82,120.20188,Lietuvos rytas Vilnius,Lithuania
+FredVanVleet,TOR,23,G,182.88,89.357624,Wichita State,USA
+JarredVanderbilt,UTA,8,F,203.2,97.068688,Kentucky,USA
+DevinVassell,SAS,24,G-F,195.58,90.7184,Florida State,USA
+GabeVincent,MIA,2,G,187.96,90.7184,California-Santa Barbara,USA
+NoahVonleh,BOS,4,F,208.28,116.573144,Indiana,USA
+NikolaVucevic,CHI,9,C,208.28,117.93392,Southern California,Montenegro
+DeanWade,CLE,32,F-C,205.74,103.418976,Kansas State,USA
+FranzWagner,ORL,22,F,208.28,99.79024,Michigan,Germany
+MoritzWagner,ORL,21,F-C,210.82,111.13004,Michigan,Germany
+IshWainright,PHX,12,F,195.58,113.398,Baylor,USA
+JabariWalker,POR,34,F,200.66,90.7184,Colorado,USA
+LonnieWalker IV,LAL,4,G-F,193.04,92.532768,Miami,USA
+JohnWall,LAC,11,G,190.5,95.25431999999999,Kentucky,USA
+T.J.Warren,BKN,1,F,203.2,99.79024,North Carolina State,USA
+P.J.Washington,CHA,25,F,200.66,104.32616,Kentucky,USA
+DuaneWashington Jr.,PHX,4,G,187.96,89.357624,Ohio State,Germany
+TyTyWashington Jr.,HOU,0,G,190.5,88.45044,Kentucky,USA
+YutaWatanabe,BKN,18,G-F,203.2,97.52228,George Washington,Japan
+LindyWaters III,OKC,12,F,198.12,95.25431999999999,Oklahoma State,USA
+TrendonWatford,POR,2,F,203.2,107.501304,Louisiana State,USA
+PeytonWatson,DEN,8,G,200.66,90.7184,UCLA,USA
+BlakeWesley,SAS,14,G,193.04,83.91452,Notre Dame,USA
+RussellWestbrook,LAL,0,G,190.5,90.7184,UCLA,USA
+CobyWhite,CHI,0,G,195.58,88.45044,North Carolina,USA
+DerrickWhite,BOS,9,G,193.04,86.18248,Colorado,USA
+JackWhite,DEN,10,F,200.66,102.0582,Duke,Australia
+AaronWiggins,OKC,21,G,195.58,86.18248,Maryland,USA
+AndrewWiggins,GSW,22,F,200.66,89.357624,Kansas,Canada
+AlondesWilliams,BKN,31,G,193.04,95.25431999999999,Wake Forest,USA
+GrantWilliams,BOS,12,F,198.12,107.047712,Tennessee,USA
+JalenWilliams,OKC,8,G-F,195.58,95.707912,Santa Clara,USA
+JaylinWilliams,OKC,6,F,205.74,108.86207999999999,Arkansas,USA
+KenrichWilliams,OKC,34,G-F,198.12,95.25431999999999,TCU,USA
+MarkWilliams,CHA,5,C,213.36,108.86207999999999,Duke,USA
+PatrickWilliams,CHI,44,F,200.66,97.52228,Florida State,USA
+ZiaireWilliams,MEM,8,F,205.74,83.91452,Stanford,USA
+RobertWilliams III,BOS,44,C-F,205.74,107.501304,Texas A&M,USA
+VinceWilliams Jr.,MEM,5,G,193.04,92.98636,Virginia Commonwealth,USA
+ZionWilliamson,NOP,1,F,198.12,128.820128,Duke,USA
+DylanWindler,CLE,9,G-F,200.66,88.904032,Belmont,USA
+JustiseWinslow,POR,26,F-G,198.12,100.697424,Duke,USA
+JamesWiseman,GSW,33,C,213.36,108.86207999999999,Memphis,USA
+ChristianWood,DAL,35,F,205.74,97.068688,UNLV,USA
+DelonWright,WAS,55,G,195.58,83.91452,Utah,USA
+McKinleyWright IV,DAL,25,G,180.34,87.089664,Colorado,USA
+ThaddeusYoung,TOR,21,F,203.2,106.59412,Georgia Tech,USA
+TraeYoung,ATL,11,G,185.42000000000002,74.389088,Oklahoma,USA
+OmerYurtseven,MIA,77,C,210.82,124.7378,Georgetown,Turkey
+MylesTurner,IND,33,C-F,210.82,113.398,Texas,USA
+JonasValanciunas,NOP,17,C,210.82,120.20188,Lietuvos rytas Vilnius,Lithuania
+FredVanVleet,TOR,23,G,182.88,89.357624,Wichita State,USA
+JarredVanderbilt,UTA,8,F,203.2,97.068688,Kentucky,USA
+DevinVassell,SAS,24,G-F,195.58,90.7184,Florida State,USA
+GabeVincent,MIA,2,G,187.96,90.7184,California-Santa Barbara,USA
+NoahVonleh,BOS,4,F,208.28,116.573144,Indiana,USA
+NikolaVucevic,CHI,9,C,208.28,117.93392,Southern California,Montenegro
+DeanWade,CLE,32,F-C,205.74,103.418976,Kansas State,USA
+FranzWagner,ORL,22,F,208.28,99.79024,Michigan,Germany
+MoritzWagner,ORL,21,F-C,210.82,111.13004,Michigan,Germany
+IshWainright,PHX,12,F,195.58,113.398,Baylor,USA
+JabariWalker,POR,34,F,200.66,90.7184,Colorado,USA
+LonnieWalker IV,LAL,4,G-F,193.04,92.532768,Miami,USA
+JohnWall,LAC,11,G,190.5,95.25431999999999,Kentucky,USA
+T.J.Warren,BKN,1,F,203.2,99.79024,North Carolina State,USA
+P.J.Washington,CHA,25,F,200.66,104.32616,Kentucky,USA
+DuaneWashington Jr.,PHX,4,G,187.96,89.357624,Ohio State,Germany
+TyTyWashington Jr.,HOU,0,G,190.5,88.45044,Kentucky,USA
+YutaWatanabe,BKN,18,G-F,203.2,97.52228,George Washington,Japan
+LindyWaters III,OKC,12,F,198.12,95.25431999999999,Oklahoma State,USA
+TrendonWatford,POR,2,F,203.2,107.501304,Louisiana State,USA
+PeytonWatson,DEN,8,G,200.66,90.7184,UCLA,USA
+BlakeWesley,SAS,14,G,193.04,83.91452,Notre Dame,USA
+RussellWestbrook,LAL,0,G,190.5,90.7184,UCLA,USA
+CobyWhite,CHI,0,G,195.58,88.45044,North Carolina,USA
+DerrickWhite,BOS,9,G,193.04,86.18248,Colorado,USA
+JackWhite,DEN,10,F,200.66,102.0582,Duke,Australia
+AaronWiggins,OKC,21,G,195.58,86.18248,Maryland,USA
+AndrewWiggins,GSW,22,F,200.66,89.357624,Kansas,Canada
+AlondesWilliams,BKN,31,G,193.04,95.25431999999999,Wake Forest,USA
+GrantWilliams,BOS,12,F,198.12,107.047712,Tennessee,USA
+JalenWilliams,OKC,8,G-F,195.58,95.707912,Santa Clara,USA
+JaylinWilliams,OKC,6,F,205.74,108.86207999999999,Arkansas,USA
+KenrichWilliams,OKC,34,G-F,198.12,95.25431999999999,TCU,USA
+MarkWilliams,CHA,5,C,213.36,108.86207999999999,Duke,USA
+PatrickWilliams,CHI,44,F,200.66,97.52228,Florida State,USA
+ZiaireWilliams,MEM,8,F,205.74,83.91452,Stanford,USA
+RobertWilliams III,BOS,44,C-F,205.74,107.501304,Texas A&M,USA
+VinceWilliams Jr.,MEM,5,G,193.04,92.98636,Virginia Commonwealth,USA
+ZionWilliamson,NOP,1,F,198.12,128.820128,Duke,USA
+DylanWindler,CLE,9,G-F,200.66,88.904032,Belmont,USA
+JustiseWinslow,POR,26,F-G,198.12,100.697424,Duke,USA
+JamesWiseman,GSW,33,C,213.36,108.86207999999999,Memphis,USA
+ChristianWood,DAL,35,F,205.74,97.068688,UNLV,USA
+DelonWright,WAS,55,G,195.58,83.91452,Utah,USA
+McKinleyWright IV,DAL,25,G,180.34,87.089664,Colorado,USA
+ThaddeusYoung,TOR,21,F,203.2,106.59412,Georgia Tech,USA
+TraeYoung,ATL,11,G,185.42000000000002,74.389088,Oklahoma,USA
+OmerYurtseven,MIA,77,C,210.82,124.7378,Georgetown,Turkey
+IvicaZubac,LAC,40,C,213.36,108.86207999999999,Mega Basket,Croatia
