@@ -1,78 +1,87 @@
 PLAYER,POS,Lane Agility Time (seconds),Shuttle Run (seconds),Three Quarter Sprint (seconds),Standing Vertical Leap (inches),Max Vertical Leap (inches),Max Bench Press (repetitions)
-Max Abmas,PG,10.90,3.49,3.12,28.5,32.5,-
-Ochai Agbaji,SG,10.88,3.10,3.13,32.0,41.5,-
-Marcus Bagley,SF,12.26,3.10,3.17,32.5,38.5,-
-Scottie Barnes,SF,10.88,2.99,3.15,36.0,39.5,-
-Charles Bassey,C,12.19,3.33,3.13,33.0,36.0,-
-Brandon Boston Jr.,SF,-,-,-,-,-,-
-James Bouknight,SG,-,-,-,-,-,-
-Greg Brown III,PF,10.98,2.98,3.19,33.5,39.0,-
-Jared Butler,PG,-,-,-,-,-,-
-Julian Champagnie,SF,12.38,3.20,3.20,26.0,32.0,-
-Justin Champagnie,PF,11.94,3.14,3.34,27.0,35.0,-
-Josh Christopher,SG,11.32,3.30,3.14,29.5,37.5,-
-Sharife Cooper,PG,-,-,-,-,-,-
-Cade Cunningham,PG,-,-,-,-,-,-
-Ayo Dosunmu,SG,11.51,3.27,3.23,27.0,33.5,-
-David Duke Jr.,SG,11.21,3.19,3.08,30.0,39.0,-
-Kessler Edwards,PF,11.30,3.38,3.25,28.0,37.0,-
-Luka Garza,C,11.90,3.38,3.51,24.0,29.5,-
-RaiQuan Gray,PF,11.69,3.30,3.25,26.5,31.5,-
-Jalen Green,SG,-,-,-,-,-,-
-Quentin Grimes,SG,11.09,3.33,3.07,30.5,38.5,-
-Sam Hauser,SF,11.14,3.07,3.34,28.5,34.5,-
-Aaron Henry,SF,11.68,3.18,3.07,29.0,35.0,-
-Ariel Hukporti,C,12.20,3.53,3.12,24.5,31.0,-
-Matt Hurt,PF,11.44,3.25,3.34,25.5,32.5,-
-Nah'Shon Hyland,SG,10.53,3.17,3.10,26.5,34.0,-
-Isaiah Jackson,C,-,-,-,-,-,-
-David Johnson,SG,12.02,3.20,3.03,33.0,39.0,-
-Jalen Johnson,PF,-,-,-,-,-,-
-Keon Johnson,SG,11.45,3.20,3.00,41.5,48.0,-
-Carlik Jones,PG,10.96,3.23,3.16,31.5,36.0,-
-Kai Jones,PF,-,-,-,-,-,-
-Herbert Jones,SF,11.02,3.17,3.25,28.5,36.5,-
-Johnny Juzang,SG,11.13,3.08,3.13,31.0,36.5,-
-Corey Kispert,SF,10.91,2.99,3.12,30.0,37.5,-
-Jonathan Kuminga,SF,-,-,-,-,-,-
-AJ Lawson,SG-SF,11.00,3.01,2.98,33.0,41.0,-
-Scottie Lewis,SF,10.45,3.03,2.98,34.0,42.0,-
-Isaiah Livers,SF,-,-,-,-,-,-
-Makur Maker,C,11.87,3.28,3.34,25.5,31.0,-
-Sandro Mamukelashvili,C,11.63,3.30,3.21,30.5,36.5,-
-Tre Mann,PG,-,-,-,-,-,-
-Matthew Mayer,PF,-,-,-,-,-,-
-Miles McBride,PG,11.08,3.13,3.10,31.0,38.5,-
-Davion Mitchell,PG,-,-,-,-,-,-
-Evan Mobley,PF,-,-,-,-,-,-
-Isaiah Mobley,PF,12.70,3.50,3.30,26.5,32.0,-
-Moses Moody,SG,-,-,-,-,-,-
-Trey Murphy III,SF,11.65,3.32,3.14,34.0,38.0,-
-Daishen Nix,PG,11.72,3.18,3.00,29.5,36.5,-
-John Petty Jr.,SG,11.51,3.17,3.35,27.5,34.0,-
-Yves Pons,PF,10.89,3.05,3.10,36.0,42.5,-
-Jason Preston,PG,10.82,3.08,3.13,30.5,38.5,-
-Joshua Primo,SG,10.97,3.36,3.22,30.5,37.5,-
-Roko Prkacin,PF,-,-,-,-,-,-
-Neemias Queta,C,11.85,3.50,3.29,27.0,33.0,-
-Austin Reaves,SG,10.94,3.19,3.07,25.0,35.0,-
-Jeremiah Robinson-Earl,PF,11.64,3.15,3.29,27.0,32.0,-
-Terrence Shannon Jr.,SF,11.51,3.12,3.21,32.5,39.5,-
-Day'Ron Sharpe,C,-,-,-,-,-,-
-Jericho Sims,C,11.59,3.38,3.05,37.0,44.5,-
-Jaden Springer,SG,11.46,3.10,3.13,34.5,41.5,-
-DJ Steward,PG,11.14,3.10,3.08,34.5,38.5,-
-Cam Thomas,SG,-,-,-,-,-,-
-JT Thor,PF,12.19,3.08,3.06,31.5,35.0,-
-Isaiah Todd,PF,11.38,3.25,3.31,28.5,35.5,-
-Duane Washington Jr.,SG,11.50,3.06,3.17,29.5,35.5,-
-Trendon Watford,PF,11.69,3.23,3.27,28.0,35.0,-
-Joe Wieskamp,SF,10.70,3.18,3.04,30.0,42.0,-
-Aaron Wiggins,SG-SF,11.20,3.00,3.04,29.5,36.0,-
-Ziaire Williams,SF,10.69,3.04,3.12,34.0,39.5,-
-Moses Wright,PF,11.20,3.42,3.15,31.5,38.0,-
-McKinley Wright IV,PG,10.76,3.12,3.08,31.5,38.0,-
-Marcus Zegarowski,PG,11.47,3.26,3.11,30.0,35.5,-
+Ochai Agbaji,SG,10.77,3.11,3.13,32.0,39.0,-
+Patrick Baldwin Jr.,SF,12.25,3.30,3.45,23.5,26.5,-
+Paolo Banchero,PF,-,-,-,-,-,-
+Dominick Barlow,PF,11.29,3.19,3.33,28.5,34.0,-
+MarJon Beauchamp,SG,-,-,-,-,-,-
+Hugo Besson,SG,11.36,3.25,3.40,24.5,31.5,-
+Malaki Branham,SG,11.38,3.09,3.17,29.0,35.0,-
+Christian Braun,SG,11.00,3.13,3.16,33.5,40.0,-
+Kendall Brown,SF,11.57,3.05,3.29,31.5,41.0,-
+John Butler Jr.,PF,11.16,3.04,3.33,26.5,28.5,-
+Julian Champagnie,SF,11.39,3.04,3.14,28.5,34.5,-
+Kennedy Chandler,PG,10.73,2.89,-,31.0,41.5,-
+Max Christie,SG,10.82,3.02,3.07,32.0,37.5,-
+Kofi Cockburn,C,12.11,3.31,3.33,29.5,32.5,-
+Dyson Daniels,SG,10.81,2.81,3.22,29.0,34.0,-
+Johnny Davis,PG,-,-,-,-,-,-
+JD Davison,PG,11.38,3.23,3.26,30.0,37.0,-
+Darius Days,SF-PF,-,-,-,-,-,-
+Moussa Diabate,C,11.16,2.90,3.26,29.0,36.5,-
+Ousmane Dieng,SF,-,-,-,-,-,-
+Khalifa Diop,C,-,-,-,-,-,-
+Jalen Duren,C,-,-,-,-,-,-
+Tari Eason,PF,-,-,-,-,-,-
+Keon Ellis,SG,10.87,3.02,3.18,28.0,35.5,-
+Michael Foster Jr.,C,11.49,3.10,3.22,28.0,32.5,-
+Collin Gillespie,PG,10.95,3.01,3.21,26.5,33.0,-
+AJ Griffin,SF,-,-,-,-,-,-
+Jaden Hardy,SG,-,-,-,-,-,-
+Ron Harper Jr.,SF,11.41,3.24,3.40,26.0,30.5,-
+Chet Holmgren,PF,-,-,-,-,-,-
+Harrison Ingram,SF,11.83,3.26,3.31,29.5,35.0,-
+Jaden Ivey,PG,-,-,-,-,-,-
+Trayce Jackson-Davis,C,-,-,-,-,-,-
+Nikola Jovic,SF,-,-,-,-,-,-
+Johnny Juzang,SG,11.03,3.17,3.29,27.5,32.5,-
+Ismael Kamagate,PF,-,-,-,-,-,-
+Trevor Keels,SG,11.33,3.32,3.27,24.5,31.0,-
+Walker Kessler,C,-,-,-,-,-,-
+Christian Koloko,C,11.30,3.19,3.27,28.0,33.5,-
+Jake LaRavia,PF,10.58,2.89,3.37,27.5,34.0,-
+Justin Lewis,PF,11.49,3.02,3.23,32.5,35.0,-
+E.J. Liddell,PF,11.11,3.23,3.26,35.5,38.0,-
+Kenneth Lofton Jr.,PF-C,-,-,-,-,-,-
+Tyrese Martin,SG-SF,-,-,-,-,-,-
+Bennedict Mathurin,SG,-,-,-,-,-,-
+Matthew Mayer,SF,10.74,-,3.39,25.5,31.5,-
+Bryce McGowens,SG,11.12,3.16,3.27,29.5,34.0,-
+Leonard Miller,SF,11.11,3.02,3.36,30.0,36.5,-
+Josh Minnott,PF,-,-,-,-,-,-
+Aminu Mohammed,SG-SF,11.54,3.04,3.33,29.5,36.0,-
+Iverson Molinar,PG,11.23,3.10,3.19,31.0,38.0,-
+Jean Montero,PG,11.19,3.17,3.17,29.5,37.0,-
+Wendell Moore,SG,10.94,3.21,3.30,32.5,38.5,-
+Keegan Murray,PF,-,-,-,-,-,-
+Andrew Nembhard,PG,10.46,3.02,3.26,26.5,35.0,-
+Scotty Pippen Jr.,PG,11.07,3.10,3.21,30.5,37.5,-
+Gabriele Procida,SG-SF,11.02,3.14,3.07,29.5,35.0,-
+Jared Rhoden,SG-SF,-,-,-,-,-,-
+Orlando Robinson,C,11.40,3.23,3.55,23.0,27.5,-
+David Roddy,PF,10.75,3.10,3.22,27.0,35.5,-
+Ryan Rollins,SG,11.26,3.28,3.07,30.5,36.5,-
+Marcus Sasser,PG,-,-,-,-,-,-
+Dereon Seabron,SG,11.03,3.04,3.12,30.5,38.0,-
+Shaedon Sharpe,SG,-,-,-,-,-,-
+Terquavion Smith,SG,10.63,3.03,3.14,30.5,38.5,-
+Jabari Smith,PF,-,-,-,-,-,-
+Jeremy Sochan,PF,-,-,-,-,-,-
+Matteo Spagnolo,PG,11.42,3.16,3.40,25.5,31.5,-
+Julian Strawther,SF,10.30,3.37,3.26,28.5,35.0,-
+Dalen Terry,SG,-,-,-,-,-,-
+Drew Timme,C,11.71,3.31,3.38,25.5,31.5,-
+Jabari Walker,PF,11.53,3.12,3.24,29.5,32.5,-
+TyTy Washington Jr.,SG,-,-,-,-,-,-
+Peyton Watson,SF,11.03,3.24,3.28,28.0,33.5,-
+Blake Wesley,SG,11.55,3.25,3.21,30.0,36.0,-
+Alondes Williams,SG,10.96,3.11,3.15,30.0,35.5,-
+Jalen Williams,SG,11.13,3.17,3.11,33.5,39.0,-
+Jaylin Williams,C,11.64,3.10,3.50,24.5,30.0,-
+Trevion Williams,C,12.75,3.46,3.48,27.5,30.0,-
+Bryson Williams,PF-C,-,-,-,-,-,-
+Mark Williams,C,-,-,-,-,-,-
+Jalen Wilson,SF-PF,-,-,-,-,-,-
+Fanbo Zeng,SF-PF,-,-,-,-,-,-
 Precious Achiuwa,PF,-,-,-,-,-,-
 Ty-Shon Alexander,SG,11.33,2.47,3.26,28.0,33.0,-
 Udoka Azubuike,C,11.82,3.61,3.23,37.0,41.0,-
