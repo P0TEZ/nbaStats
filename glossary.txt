@@ -1,0 +1,23 @@
+----- nbaPlayersAllTimesStatsData -----
+
+GP : Game Played
+MIN : Minutes Played
+PTS : Points
+FGM : Field Goals Made
+FGA : Field Goals Attempted
+FG% : Field Goals Percentage
+3PM : 3-Point Field Goals Made
+3PA : 3-Point Field Goals Attempted
+3P% : 3-Point Field Goals Percentage
+FTM : Free Throw Made
+FTA : Free Throw Attempted
+FT% : Free Throw Percentage
+OREB : Offensive Rebound
+DREB : Defensive Rebound
+REB : Rebound
+AST : Assist
+STL : Steal
+BLK : Block
+TOV : Turnover
+EFG% : Effective Field Goal Percentage
+TS% : True Shooting Percentage
